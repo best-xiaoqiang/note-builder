@@ -15,9 +15,8 @@ export default {
     return {
       items: [
         {
-          title: '',
+          title: '搜索',
           path: '/search',
-          icon: 'el-icon-search'
         },
         {
           title: '目录',
